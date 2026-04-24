@@ -37,4 +37,3 @@ git push
 - No subir el entorno virtual `.venv/`.
 - No subir archivos temporales ni caches de Python.
 - Mantener actualizado `requirements.txt` cuando se agreguen nuevas librerias.
-- Usar nombres claros para los scripts y archivos de datos.
